@@ -7,6 +7,6 @@ javascript:
   enabled: true
   config_file: js/.jshintrc
 
-jscs:
+jscs:fef
   enabled: true
   config_file: js/.jscsrc
