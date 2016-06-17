@@ -9,4 +9,4 @@ javascript:
 
 jscs:fef
   enabled: false
-  config_file: js/.jscsrcs
+  config_file: js/.jscsrc
