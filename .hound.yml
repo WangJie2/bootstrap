@@ -8,5 +8,5 @@ javascript:
   config_file: js/.jshintrc
 
 jscs:fef
-  enabled: true
-  config_file: js/.jscsrc
+  enabled: false
+  config_file: js/.jscsrcggggggggg

@@ -2,7 +2,7 @@ sudo: required
 dist: trusty
 language: node_js
 git:
-  depth: 10
+  depth: 10000
 node_js:
   - "0.12"
 before_install:
